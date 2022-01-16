@@ -1,0 +1,63 @@
+<!DOCTYPE html lnag="en">
+<html>
+
+<head>
+    <link rel="stylesheet" href="style format.css">
+    Session 1
+    <style>
+        tr:nth-child(even) {
+            background-color: azure;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    Testing things out.
+
+
+    <div style="background-color: darkgoldenrod;">
+        <ul id="headBar" style="list-style-type: none; margin: 0; padding: 0;overflow: hidden;">
+            <li style="float: left;"><a id="headItem" href="#worldMap"> Home </a></li>
+            <li style="float: left;"><a id="headItem" href="#worldMap"> Map </a></li>
+            <li style="float: left;"><a id="headItem" href="#worldMap"> Places </a></li>
+            <li style="float: left;"><a id="headItem" href="#worldMap"> Characters </a></li>
+        </ul>
+    </div>
+
+
+    <h1>
+        maybe this looks different
+    </h1>
+    <p>AHHHHHHHHHH</p>
+
+    <p> Testing out a table
+    <table style="border-color: blueviolet;">
+        <caption>Tester</caption>
+        <tr style="color: crimson;">
+            <th>Start</th>
+            <th>Middle</th>
+            <th>End</th>
+        </tr>
+        <tr>
+            <td style="border-style: dotted;">
+                one
+            </td>
+            <td>
+                two
+            </td>
+            <td>
+                three
+            </td>
+        </tr>
+        <tr>
+
+            <td style="border-style: dotted;" rowspan="2">one </td>
+            <td>three </td>
+        </tr>
+    </table>
+    </p>
+</body>
+
+</html>
