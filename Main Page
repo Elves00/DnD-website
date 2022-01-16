@@ -60,6 +60,11 @@
 
 
 
+    <!-- This is the top header where D&D will go-->
+    <div>
+        <h1>The D&D header</h1>
+    </div>
+
     <!--- img means image
         src means source.--->
 
@@ -71,6 +76,7 @@
             <li class="bar"><a class="headItem" href="#worldMap"> Characters </a></li>
         </ul>
     </div>
+
     <h1 style="color:black;font-size: large; align:center;"> Welcome to Brecons DND campagin :)</h1>
     <img src="Image/Map.png" alt="Dnd World Map" usemap="#worldMap" width="400" height="400">
     <map name="worldMap">
